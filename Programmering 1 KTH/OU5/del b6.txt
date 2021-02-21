@@ -1,0 +1,3 @@
+Denna strategi är minneseffektiv eftersom man bara har en liten plats för varje punkt, inte flera kopier av dem
+Däremot är denna stratei inte tidseffektiv med tanke på att om man ska lägga till en punkt i mitten av vektorn så måste man skapa en ny vektor
+ och göra om denna vektor från början till slut, som tar lång tid

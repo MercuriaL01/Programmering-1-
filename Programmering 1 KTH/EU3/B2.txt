@@ -1,0 +1,1 @@
+Detta går eftersom att trots att de är olika klasser så ärver de alla från samma abstrakta klass, Chesspiece

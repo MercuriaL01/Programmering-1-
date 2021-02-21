@@ -1,0 +1,8 @@
+Vi har att bilden ser ut som den i del b4.
+Men det som sker när laggTillFramfor används är 
+Det skapas en ny array med längden av horn plus 1. 
+Sedan skrivs värderna (punkterna) på horn in i den ny arrayen jag kallar h (detta görs med hjälp av att kolla varje värde var för sig och kopiera in det i h),
+tills man kommer till positionen där punkten man vill lägga en punkt framför ligger
+Då skriver man istället punkten man vill lägga framför in i h och sedan skrivs den punkt man skriver framför efter.
+Efter det läggs resten av Punkterna i horn in i h i samma ordning.
+När samtliga punkter har kopierats in i h så sätts horn till den nya h. 

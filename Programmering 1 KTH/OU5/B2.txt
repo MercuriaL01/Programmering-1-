@@ -1,0 +1,2 @@
+Det tar mindre plats att göra som i polylinje1, men detta sätt kan skapa problem eftersom om man ändrar på klasserna som till exempel punkter så ändras de i polylinjerna också.
+Detta eftersom man inte gör kopior av t.ex. punkt klassen intanser när man använder dem i polylinje1.

@@ -1,0 +1,3 @@
+Field skapas som en nästlad klass eftersom då kan fälten i "Field" nås överallt i programmet som underlättar mycket
+Det går att göra utan nästlad klass fast då skulle get och set behövas användas väldigt mycket som kan vara besvärligt. 
+Detta förklarar också varför de klasser som representerar pjäserna är skapade som inre klasser. 

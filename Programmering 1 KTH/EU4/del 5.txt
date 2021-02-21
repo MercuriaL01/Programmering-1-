@@ -1,0 +1,2 @@
+Detta går eftersom man går igenom varje horn i polylinje och skriver ut hornet för varje "omgång" av loopen.
+Detta går däremot bara om man har en iterator märkte jag, så den använder sig av iteratorns metoder. 

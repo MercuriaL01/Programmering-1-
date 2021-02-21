@@ -1,0 +1,3 @@
+En vektor kan innehålla objekt av olika typer i detta fall eftersom att båda objekten har implementerat samma interface och har dessutom samma metod namn(kommer från interface). 
+En och samma metod kan ta emot objekt av olika typer när dessa objekt är relaterade när det kommer till vad de ärver/implementerar ifrån.
+Man kan även ha en vektor av typen object[], då kan alla typer av objekt sättas in i den vektorn. 

@@ -1,0 +1,1 @@
+Detta är möjligt eftersom alla pjäserna ärver från samma abstrakta klass, Chesspiece

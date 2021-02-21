@@ -1,0 +1,4 @@
+Namn: T-rex
+Vikt: 87.0
+Föda: k”tt
+
